@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"https://luploof.github.io/LaModa/",
+  base:"https://Luploof.github.io/LaModa/",
 })
